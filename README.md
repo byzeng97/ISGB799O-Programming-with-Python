@@ -1,4 +1,4 @@
-# Python Project 2019Fall Fordham University 
+# Python Project 2019 Fall Fordham University 
 A team project in Python course (ISGB7990 taught by Prof. Han)
 
 SUMMARY
